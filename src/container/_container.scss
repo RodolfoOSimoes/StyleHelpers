@@ -1,0 +1,32 @@
+.container {
+	margin-left: auto;
+	margin-right: auto;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+
+@media #{$media-sm} {
+	.container {
+		padding-left: 20px;
+		padding-right: 20px;
+		max-width: 576px;
+	}
+}
+
+@media #{$media-md} {
+	.container {
+		max-width: 758px;
+	}
+}
+
+@media #{$media-lg} {
+	.container {
+		max-width: 1000px;
+	}
+}
+
+@media #{$media-xl} {
+	.container {
+		max-width: 1280px;
+	}
+}

@@ -1,3 +1,13 @@
+/* Base
+------------------------- */
+/* Fonts
+---------------------------- */
+/* Screens
+---------------------------- */
+/* Media Queries
+---------------------------- */
+/* Reset
+------------------------- */
 /* 
 html5doctor.com Reset Stylesheet
 v1.6.1
@@ -106,5 +116,9 @@ html {
 * {
   -webkit-box-sizing: border-box;
   box-sizing: border-box; }
+
+@media (min-width: 768px) {
+  body {
+    background-color: #aaa; } }
 
 /*# sourceMappingURL=style-helpers.css.map */
