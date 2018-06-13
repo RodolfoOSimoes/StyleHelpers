@@ -1,0 +1,1 @@
+{"version":3,"sources":["app.scss"],"names":[],"mappings":"AAAA,KACC,QAAA,YAAA,QAAA,aAAA,QAAA,YAAA,QAAA,KACA,WAAA,EACA,mBAAA,IAAA,IAAA,KAAA,cAAA,IAAA,IAAA,KAAA,WAAA,IAAA,IAAA","file":"style-helpers.min.css","sourcesContent":["body {\n\tdisplay: flex;\n\tmargin-top: 0;\n\ttransition: all 0.4s ease;\n}"]}
